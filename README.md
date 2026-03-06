@@ -1,5 +1,8 @@
 
 
+# Guide on Arduino-to-Arduino communication with SoftwareSerial
+This setup allows **Arduino 1 (without an LCD)** to receive text input from the **Serial Monitor** on your PC. When you type a message and send it, Arduino 1 forwards the text to **Arduino 2** using serial communication. Arduino 2 then **displays the received message on the LCD screen**.
+
 # Fritzing Schematic of the setup
 ![Fritzing Schematic of the setup](images/ex13_serial_pinout.png)
 
