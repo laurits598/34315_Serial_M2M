@@ -27,7 +27,6 @@ This hardware UART can also be used, but note that it is shared with USB.
 "Shared with USB": It's the same Serial interface as "Serial.begin()"
 
 Sharing it with "Arduino‑to‑Arduino communication" can pollute the Serial Monitor output
- 
 
 */
 
