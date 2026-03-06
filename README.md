@@ -1,8 +1,6 @@
 
 
 # Fritzing Schematic of the setup
-
-# Livestock Monitor Prototype
 ![Fritzing Schematic of the setup](images/ex13_serial_pinout.png)
 
 # LCD to Arduino Wiring Guide
