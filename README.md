@@ -36,6 +36,8 @@ This guide shows how to implement **Arduino-to-Arduino communication using the S
 ---
 
 ## Change pins to your own
+A `Config.h` file is used to store the **pin definitions and library includes** (such as the `LiquidCrystal` library). This keeps the main code cleaner and makes it easier to manage or change hardware configuration in one place.
+
 ![Locate Config.h](images/ex13_locate_config.png)
 
 ![Change Config.h](images/ex13_whenInConfig.png)
