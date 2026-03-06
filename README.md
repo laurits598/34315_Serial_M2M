@@ -3,9 +3,9 @@
 # Fritzing Schematic of the setup
 ![Fritzing Schematic of the setup](images/ex13_serial_pinout.png)
 
-# LCD to Arduino Wiring Guide
+## Arduino-to-Arduino Communication with SoftwareSerial
 
-This guide shows how to connect a standard **16x2 LCD (HD44780 compatible)** to an **Arduino** using the `LiquidCrystal` library in **4-bit mode**.
+This guide shows how to implement **Arduino-to-Arduino communication using the SoftwareSerial library**. The guide also includes how to connect a standard **16x2 LCD (HD44780 compatible)** to an **Arduino** using the `LiquidCrystal` library
 
 ---
 
