@@ -8,7 +8,7 @@ This setup allows **Arduino 1 (without an LCD)** to receive text input from the 
 
 ## Arduino-to-Arduino Communication with SoftwareSerial
 
-This guide shows how to implement **Arduino-to-Arduino communication using the SoftwareSerial library**. The guide also includes how to connect a standard **16x2 LCD (HD44780 compatible)** to an **Arduino** using the `LiquidCrystal` library
+This guide shows how to implement **Arduino-to-Arduino communication using the SoftwareSerial library**. The guide also includes how to connect a standard **16x2 LCD** to an **Arduino** using the `LiquidCrystal` library
 
 ---
 
